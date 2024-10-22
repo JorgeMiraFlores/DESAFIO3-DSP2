@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DESAFIO3-DSP2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+318db62f89f23169af110a766c1a6da64e9056ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5893dbdd036c1b07384fe2893661f0e4f92de449")]
 [assembly: System.Reflection.AssemblyProductAttribute("DESAFIO3-DSP2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DESAFIO3-DSP2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

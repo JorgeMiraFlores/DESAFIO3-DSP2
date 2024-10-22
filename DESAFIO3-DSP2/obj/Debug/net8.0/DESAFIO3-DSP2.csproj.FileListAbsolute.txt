@@ -28,3 +28,4 @@ C:\repositories\DESAFIO3-DSP2\DESAFIO3-DSP2\obj\Debug\net8.0\refint\DESAFIO3-DSP
 C:\repositories\DESAFIO3-DSP2\DESAFIO3-DSP2\obj\Debug\net8.0\DESAFIO3-DSP2.pdb
 C:\repositories\DESAFIO3-DSP2\DESAFIO3-DSP2\obj\Debug\net8.0\DESAFIO3-DSP2.genruntimeconfig.cache
 C:\repositories\DESAFIO3-DSP2\DESAFIO3-DSP2\obj\Debug\net8.0\ref\DESAFIO3-DSP2.dll
+C:\repositories\DESAFIO3-DSP2\DESAFIO3-DSP2\obj\Debug\net8.0\DESAFIO3-DSP2.sourcelink.json
