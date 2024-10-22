@@ -1,0 +1,39 @@
+﻿@model CalculoSalarios.Models.Empleado
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Calcular Sueldo Neto</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f0f0f0; }
+        .container { margin-top: 50px; width: 50%; margin-left: auto; margin-right: auto; }
+        .form-group { margin-bottom: 15px; }
+        .btn { background-color: #4CAF50; color: white; border: none; padding: 10px 20px; }
+        .btn:hover { background-color: #45a049; }
+        .error { color: red; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Calculadora de Sueldo Neto</h2>
+        <form asp-action="Calcular" method="post">
+            <div class="form-group">
+                <label for="Nombre">Nombre del Empleado:</label>
+                <input type="text" asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="error"></span>
+            </div>
+            <div class="form-group">
+                <label for="SueldoBase">Sueldo Base:</label>
+                <input type="number" asp-for="SueldoBase" class="form-control" step="0.01" />
+                <span asp-validation-for="SueldoBase" class="error"></span>
+            </div>
+            <button type="submit" class="btn">Calcular</button>
+        </form>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repositories\\DESAFIO3-DSP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|c:\\repositories\\desafio3-dsp2\\desafio3-dsp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|solutionrelative:desafio3-dsp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|c:\\repositories\\desafio3-dsp2\\desafio3-dsp2\\views\\combustible\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|solutionrelative:desafio3-dsp2\\views\\combustible\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|c:\\repositories\\desafio3-dsp2\\desafio3-dsp2\\controllers\\combustiblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|solutionrelative:desafio3-dsp2\\controllers\\combustiblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|c:\\repositories\\desafio3-dsp2\\desafio3-dsp2\\models\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|solutionrelative:desafio3-dsp2\\models\\combustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|c:\\repositories\\desafio3-dsp2\\desafio3-dsp2\\views\\empleado\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|solutionrelative:desafio3-dsp2\\views\\empleado\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|c:\\repositories\\desafio3-dsp2\\desafio3-dsp2\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|solutionrelative:desafio3-dsp2\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|c:\\repositories\\desafio3-dsp2\\desafio3-dsp2\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9285BDB2-CCB1-4AB1-8F07-A262A95E046F}|DESAFIO3-DSP2\\DESAFIO3-DSP2.csproj|solutionrelative:desafio3-dsp2\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "DESAFIO3-DSP2\\Models\\Empleado.cs",
+              "ToolTip": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Models\\Empleado.cs",
+              "RelativeToolTip": "DESAFIO3-DSP2\\Models\\Empleado.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:17:14.876Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Views\\Combustible\\Index.cshtml",
+              "RelativeDocumentMoniker": "DESAFIO3-DSP2\\Views\\Combustible\\Index.cshtml",
+              "ToolTip": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Views\\Combustible\\Index.cshtml",
+              "RelativeToolTip": "DESAFIO3-DSP2\\Views\\Combustible\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T06:23:43.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CombustibleController.cs",
+              "DocumentMoniker": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Controllers\\CombustibleController.cs",
+              "RelativeDocumentMoniker": "DESAFIO3-DSP2\\Controllers\\CombustibleController.cs",
+              "ToolTip": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Controllers\\CombustibleController.cs",
+              "RelativeToolTip": "DESAFIO3-DSP2\\Controllers\\CombustibleController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:23:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Combustible.cs",
+              "DocumentMoniker": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Models\\Combustible.cs",
+              "RelativeDocumentMoniker": "DESAFIO3-DSP2\\Models\\Combustible.cs",
+              "ToolTip": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Models\\Combustible.cs",
+              "RelativeToolTip": "DESAFIO3-DSP2\\Models\\Combustible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:23:01.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Program.cs",
+              "RelativeDocumentMoniker": "DESAFIO3-DSP2\\Program.cs",
+              "ToolTip": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Program.cs",
+              "RelativeToolTip": "DESAFIO3-DSP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:20:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Views\\Empleado\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "DESAFIO3-DSP2\\Views\\Empleado\\Resultado.cshtml",
+              "ToolTip": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Views\\Empleado\\Resultado.cshtml",
+              "RelativeToolTip": "DESAFIO3-DSP2\\Views\\Empleado\\Resultado.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T06:19:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "DESAFIO3-DSP2\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\repositories\\DESAFIO3-DSP2\\DESAFIO3-DSP2\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "DESAFIO3-DSP2\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:18:30.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DESAFIO3-DSP2/1.0.0": {
+        "runtime": {
+          "DESAFIO3-DSP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DESAFIO3-DSP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,48 @@
+﻿@model CalculadoraCombustible.Models.Combustible
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora de Combustible</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f0f0f0; }
+        .container { margin-top: 50px; width: 50%; margin-left: auto; margin-right: auto; }
+        .form-group { margin-bottom: 15px; }
+        .btn { background-color: #4CAF50; color: white; border: none; padding: 10px 20px; }
+        .btn:hover { background-color: #45a049; }
+        .result { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Calculadora de Combustible</h2>
+        <form asp-action="Calcular" method="post">
+            <div class="form-group">
+                <label for="Tipo">Tipo de Combustible:</label>
+                <select asp-for="Tipo" class="form-control">
+                    <option value="Regular">Regular ($4.05)</option>
+                    <option value="Especial">Especial ($4.25)</option>
+                    <option value="Diesel">Diesel ($3.96)</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="Galones">Cantidad de Galones:</label>
+                <input type="number" asp-for="Galones" class="form-control" min="0.05" max="150" step="0.05" required />
+            </div>
+            <button type="submit" class="btn">Calcular</button>
+        </form>
+
+        @if (Model.Galones > 0)
+        {
+            <div class="result">
+                <h3>Resultados</h3>
+                <p><strong>Tipo:</strong> @Model.Tipo</p>
+                <p><strong>Precio por Galón:</strong> @Model.Precio:C</p>
+                <p><strong>Galones:</strong> @Model.Galones</p>
+                <p><strong>Total a Pagar:</strong> @Model.Total:C</p>
+            </div>
+        }
+    </div>
+</body>
+</html>

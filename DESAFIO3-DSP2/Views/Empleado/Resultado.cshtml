@@ -1,0 +1,48 @@
+﻿@model CalculoSalarios.Models.Empleado
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultados</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f0f0f0; }
+        .container { margin-top: 50px; width: 50%; margin-left: auto; margin-right: auto; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Resultados para @Model.Nombre</h2>
+        <table>
+            <tr>
+                <th>Concepto</th>
+                <th>Monto</th>
+            </tr>
+            <tr>
+                <td>Sueldo Base</td>
+                <td>@Model.SueldoBase </td>
+            </tr>
+            <tr>
+                <td>ISSS (7.3%)</td>
+                <td>@Model.ISSS </td>
+            </tr>
+            <tr>
+                <td>Renta (11%)</td>
+                <td>@Model.Renta</td>
+            </tr>
+            <tr>
+                <td>AFP (5.1%)</td>
+                <td>@Model.AFP </td>
+            </tr>
+            <tr>
+                <td><strong>Sueldo Neto</strong></td>
+                <td><strong>@Model.SueldoNeto </strong></td>
+            </tr>
+        </table>
+        <a href="/Empleado/Index" class="btn">Calcular Otro</a>
+    </div>
+</body>
+</html>
